@@ -10,6 +10,8 @@ https://drive.google.com/open?id=12bGhzgSYC02n5RoMlo_3ynccj3CVQ9iL
 
 install Environment: Ubuntu 18.04
 
-1. Install Unreal Engine & Airsim
+1) Install Unreal Engine & Airsim
 Link: https://microsoft.github.io/AirSim/docs/build_linux/
 
+2) Make project 
+make a new project using c++
