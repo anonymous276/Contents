@@ -15,7 +15,7 @@ Airsim version: 1.2.0
 2. Run Unreal Editor.  
 3. Go to 'New Project' and choose 'Basic Code' in 'C++'.  
 4. Create the project(Rememer the path of your project).  
-5. Open $your_path_to_the_project/your_project_name.uproject with textediting program.  
+5. Open $your_path_to_the_project/your_project_name.uproject with textediting tool.  
 6. Add the following configuration and then save:  
 ...  
 "LoadingPhase": "Defalut",  
