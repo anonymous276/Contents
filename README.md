@@ -1,5 +1,14 @@
 # Simulation environments used for experiments in the papar "Reward-Driven U-Net Training for Collision Avoidance Drone"
-Download link .zip file
+
+Develope Environments:
+
+OS: Ubuntu 18.04
+CPU: Intel i5-7600 3.5GHz
+Memory: 16 GiB
+GPU: NVIDIA Geforce GTX 1060/ 3GB
+Unreal Engine version: 4.18
+Airsim version: 1.2.0
+
 
 https://drive.google.com/open?id=1qTx6P4VxBNrIUkctbkCI9arOyT1gthQc
 
