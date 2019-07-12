@@ -1,4 +1,4 @@
-# Simulation environments used for experiments in the papar "Reward-Driven U-Net Training for  Avoidance Drone"
+# Simulation environments used for experiments in the papar "Reward-Driven U-Net Training for Obstacle Avoidance Drone"
 
 Development Environment:
 
