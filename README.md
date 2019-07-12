@@ -46,7 +46,7 @@ Airsim version: 1.2.0
  
  10. Run UE4Editor and open your project. It will take some time to compile the environment.  
  
- 11. From 'Windown Menu' select 'World Settings', and change 'Game Mode' to 'AirsimGameMode'.   
+ 11. From 'Window Menu' select 'World Settings', and change 'Game Mode' to 'AirsimGameMode'.   
  
  12. Click 'Play' button and enjoy! Control commands can be found in 'PythonClient' provided by Airsim.
 
