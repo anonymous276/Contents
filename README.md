@@ -40,11 +40,9 @@ Airsim version: 1.2.0
  Example command in Ubuntu : rm -r your_path_to_the_project/Content  
  9. Download one of our simulation environments and extract it into your_path to_the_project 
  
-   Environment 1 : https://drive.google.com/open?id=1qTx6P4VxBNrIUkctbkCI9arOyT1gthQc
-
-   Environment 2 : https://drive.google.com/open?id=1kTaOvz7hDMvBpg0XU2ZUr0ktVxacmprZ
-
-   Environment 3 : https://drive.google.com/open?id=12bGhzgSYC02n5RoMlo_3ynccj3CVQ9iL
+     Environment 1 : https://drive.google.com/open?id=1qTx6P4VxBNrIUkctbkCI9arOyT1gthQc  
+     Environment 2 : https://drive.google.com/open?id=1kTaOvz7hDMvBpg0XU2ZUr0ktVxacmprZ  
+     Environment 3 : https://drive.google.com/open?id=12bGhzgSYC02n5RoMlo_3ynccj3CVQ9iL  
  
  10. Run UE4Editor and open your project. It will take some time to compile the environment.  
  
