@@ -38,7 +38,7 @@ Airsim version: 1.2.0
  Example command in Ubuntu : cp -r your_path_to_Airsim/Unreal/Plugins your_path_to_the_project/  
  8. Remove the 'Content' directory in your project  
  Example command in Ubuntu : rm -r your_path_to_the_project/Content  
- 9. Download one of our simulation environment and extract it into your_path to_the_project 
+ 9. Download one of our simulation environments and extract it into your_path to_the_project 
  
  Environment 1 : https://drive.google.com/open?id=1qTx6P4VxBNrIUkctbkCI9arOyT1gthQc
 
@@ -47,7 +47,7 @@ Airsim version: 1.2.0
  Environment 3 : https://drive.google.com/open?id=12bGhzgSYC02n5RoMlo_3ynccj3CVQ9iL
  10. Run UE4Editor and open your project. It will take some time to compile the environment.  
  11. From 'Windown Menu' select 'World Settings', and change 'Game Mode' to 'AirsimGameMode'.   
- 12. Click 'Play' button and enjoy!
+ 12. Click 'Play' button and enjoy! Control commands can be found in 'PythonClient' provided by Airsim.
 
 
 
