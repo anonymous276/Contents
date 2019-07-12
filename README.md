@@ -1,6 +1,6 @@
 # Simulation environments used for experiments in the papar "Reward-Driven U-Net Training for Collision Avoidance Drone"
 
-Develope Environments:
+Develope Environment:
 
 OS: Ubuntu 18.04  
 CPU: Intel i5-7600 3.5GHz
