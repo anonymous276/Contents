@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1B72EC7E-1701-131D-0028-0073DC935943}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "sample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+                        "AdditionalDependencies": [
+                            "AirSim"
+                        ]
+		}
+	],
+        "Plugins": [
+        {
+            "Name": "AirSim",
+            "Enabled": true
+        }
+    ]
+
+}
