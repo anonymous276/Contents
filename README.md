@@ -15,7 +15,7 @@ Airsim version: 1.2.0
 2. Run Unreal Editor.  
 3. Go to 'New Project' and choose 'Basic Code' in 'C++'.  
 4. Create the project(Rememer the path of your project).  
-5. Open $your_path_to_the_project/your_project_name.uproject with textediting tool.  
+5. Open $*your_path_to_the_project*/*your_project_name*.uproject with textediting tool.  
 6. Add the following configuration and then save:  
 ...  
 "LoadingPhase": "Defalut",  
@@ -35,9 +35,9 @@ Airsim version: 1.2.0
  
    Final uproject file should look like 'sample.uproject' attached in this repository.  
  7. Copy Airsim plugin directory into your project folder.      
- Example command in Ubuntu : cp -r your_path_to_Airsim/Unreal/Plugins your_path_to_the_project/    
+ Example command in Ubuntu : cp -r *your_path_to_Airsim*/Unreal/Plugins *your_path_to_the_project*/    
  8. Remove the 'Content' directory in your project folder.   
- Example command in Ubuntu : rm -r your_path_to_the_project/Content    
+ Example command in Ubuntu : rm -r *your_path_to_the_project*/Content    
  9. Download one of our simulation environments and extract it into your_path to_the_project 
  
      Environment 1 : https://drive.google.com/open?id=1qTx6P4VxBNrIUkctbkCI9arOyT1gthQc  
