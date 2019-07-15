@@ -3,7 +3,7 @@
 Development Environment:
 
 OS: Ubuntu 18.04  
-CPU: Intel i5-7600 3.5GHz
+CPU: Intel i5-7600 3.4GHz
 Memory: 16 GiB  
 GPU: NVIDIA Geforce GTX 1060/ 3GB  
 Unreal Engine version: 4.18  
