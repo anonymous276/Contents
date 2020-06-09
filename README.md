@@ -43,7 +43,7 @@ Airsim version: 1.2.0
      Environment 1 : https://drive.google.com/open?id=1qTx6P4VxBNrIUkctbkCI9arOyT1gthQc  
      Environment 2 : https://drive.google.com/open?id=1kTaOvz7hDMvBpg0XU2ZUr0ktVxacmprZ  
      Environment 3 : https://drive.google.com/open?id=12bGhzgSYC02n5RoMlo_3ynccj3CVQ9iL  
-     Block-world : https://drive.google.com/file/d/1L_bYd_Itrb6F1qONZwuDJxGxQyHtIp3j/view?usp=sharing
+     Block-world : https://drive.google.com/file/d/1L_bYd_Itrb6F1qONZwuDJxGxQyHtIp3j/view?usp=sharing  
      Arena : https://drive.google.com/file/d/1aG4AsRfgwsZzZP-HTDMeKNJY-lCv_EXU/view?usp=sharing
  
  10. Run UE4Editor and open your project. It will take some time to compile the environment.  
